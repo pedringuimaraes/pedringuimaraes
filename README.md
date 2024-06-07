@@ -1,16 +1,13 @@
-## Hi there 👋
+## ✞Eae piá 🇧🇷👺☯✡✞
 
-<!--
-**pedringuimaraes/pedringuimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui quem fala é o **Pedro Henrique**
 
-Here are some ideas to get you started:
+- Estou estudando pelo Alura
+- Estou aprendendo Javascript
+- No momento que estou criando isso tenho 16 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Você pode entrar em contato comigo
+
+-pedro.guimaraes.souza09@escola.pr.gov.br
+
+![](https://media.tenor.com/iT_GL0oMNDYAAAAi/ja.gif)
