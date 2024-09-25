@@ -8,6 +8,6 @@ Aqui quem fala é o **Pedro Henrique**
 
 ##Você pode entrar em contato comigo
 
--pedro.guimaraes.souza09@escola.pr.gov.br
+- pedro.guimaraes.souza09@escola.pr.gov.br
 
 ![](https://media.tenor.com/iT_GL0oMNDYAAAAi/ja.gif)
